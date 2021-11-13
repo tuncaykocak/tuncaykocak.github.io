@@ -1,6 +1,6 @@
 ---
 layout: "journal_by_category"
-category: "cat03"
-permalink: "/journal/category/cat03/"
+category: "kurs"
+permalink: "/journal/category/kurs/"
 header-img: "img/archive-bg.jpg"
 ---

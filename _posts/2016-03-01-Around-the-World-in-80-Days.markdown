@@ -8,7 +8,7 @@ image:
 date:       2016-03-01 
 header-img: "img/postcover/pc006.jpg"
 tags: [tanitim]
-categories: [cat04]
+categories: [malzeme]
 comments: false
 ---
 

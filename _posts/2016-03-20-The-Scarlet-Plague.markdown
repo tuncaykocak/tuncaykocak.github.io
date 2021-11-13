@@ -8,7 +8,7 @@ image:
 date:       2016-03-20
 header-img: "img/postcover/pc002.jpg"
 tags: [tanitim, malzeme]
-categories: [cat03, cat04]
+categories: [tanitim, malzeme]
 comments: false
 ---
 

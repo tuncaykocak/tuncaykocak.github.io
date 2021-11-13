@@ -7,7 +7,7 @@ image:
   feature: "pc003.jpg"
 date:       2016-03-15
 header-img: "img/postcover/pc003.jpg"
-tags: [tag03, tag04]
+tags: [tanitim, malzeme]
 categories: [cat03, cat04]
 comments: false
 ---

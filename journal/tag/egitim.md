@@ -1,6 +1,6 @@
 ---
 layout: "journal_by_tag"
-tag: "veli"
-permalink: "/journal/tag/veli/"
+tag: "egitim"
+permalink: "/journal/tag/egitim/"
 header-img: "img/archive-bg.jpg"
 ---

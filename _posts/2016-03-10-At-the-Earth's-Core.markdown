@@ -7,7 +7,7 @@ image:
   feature: "pc004.jpg"
 date:       2016-03-10 
 header-img: "img/postcover/pc004.jpg"
-tags: [tag01]
+tags: [egitim]
 categories: [cat02]
 comments: false
 ---

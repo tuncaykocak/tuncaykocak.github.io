@@ -1,0 +1,90 @@
+﻿---
+layout: "post"
+title: "denemelik"
+subtitle: "Image format and what Is the Ideal File Size for an Image?"
+active: "journal"
+image:
+  feature: "pc008.jpg"
+date: "2016-05-01"
+header-img: "img/postcover/pc008.jpg"
+comments: "true"
+---
+
+
+
+
+**AKYAZI İLÇE MİLLİ EĞİTİM MÜDÜRLÜĞÜ**
+
+**BİLİŞİM TEKNOLOJİLERİ ALANI**
+
+**2020-2021 EĞİTİM- ÖĞRETİM YILI SENE SONU**
+
+**İLÇE ZÜMRE TOPLANTI TUTANAĞI** 
+
+
+DERSİN ADI : **BİLİŞİM TEKNOLOJİLERİ VE YAZILIM**
+ÖĞRETİM YILI/DÖNEMİ : **2020-2021**
+TOPLANTI TARİHİ **: 01/07/2021**
+TOPLANTIYA KATILANLAR : 
+
+
+
+|<p>**GÜNDEM MADDELERİ:**</p><p>1. Açılış ve yoklama.</p><p>2. Bir önceki toplantıda alınan kararların incelenmesi.</p><p>3. İlçe düzeyinde uygulama birliğinin sağlanması.</p><p>4. Öğretim programlarında belirlenen ortak hedeflere ulaşılması.</p><p>5. Öğrenci başarısının artırılması için alınacak tedbirler.</p><p>6. Pandemi sürecinde eğitim öğretim ile ilgili olarak alınacak ek tedbirler</p><p>7. Zümre ve alanlar arası iş birliği.</p><p>8. Eğitim ve öğretimde kalitenin yükseltilmesi.</p><p>9. İş sağlığı ve güvenliği.</p><p>10. 2021-2022 hedeflerimiz </p><p>11. Dilek ve temenniler, Kapanış.</p><p></p>|
+| - |
+|**GÜNDEM MADDELERİNİN GÖRÜŞÜLMESİ:**|
+|**Açılış ve yoklama.**|
+|<p>İlçe Zümre Başkanı …………………..iyi dileklerle toplantıyı açtı. Yoklama yapıldı. Toplantıya herkesin katıldığı görüldü.</p><p></p>|
+|**Bir önceki toplantıda alınan kararların incelenmesi.**|
+|<p>Yaşanan pandemi sürecinde 2020/2021 Eğitim-Öğretim yılı ikinci dönem zümresinde alınan kararların uygulanmasında yaşanan problemlerin(Uzaktan Eğitim sürecinde yetiştirilemeyen konuların telafisi vb); telafi eğitim programı sürecinde mümkün olduğunca tamamlanması gerektiği konusunda fikir birliğine varılmıştır.</p><p></p>|
+|**İlçe düzeyinde uygulama birliğinin sağlanması.**|
+|<p>Güncellenen çerçeve öğretim programlarının incelenerek, telafi eğitim süreci ve 2021/2022 Eğitim-Öğretim yılında ders çizelgelerinin çerçeve öğretim programlarında belirlenen haftalık ders çizelgelerine göre uygulanması, hazırlanacak ders planların çerçeve öğretim programlarında belirlenen kazanımlara uygun olarak yapılması; sınav, performans ve proje notlarının yönetmeliğe uygun olarak planlanmasıvurgulanarak uygulama birliğinin sağlanması gerektiğine karar verilmiştir.</p><p></p>|
+|**Öğretim programlarında belirlenen ortak hedeflere ulaşılması.**|
+|Eğitim sistemimizin temel amacı olan “değerlerimiz ve yetkinliklerle bütünleşmiş bilgi, beceri ve davranışlara sahip bireyler yetiştirmek” ilkesinden yola çıkarak hızla gelişen ve değişin bilişim teknolojileri alanında uygulanan çerçeve öğretim programlarının eğitim ve öğretime sınır çizmediği; aksine yol gösterici ve ufuk açıcı tavsiyeler içerdiği bilinmektedir. Sektör beklentilerine cevap veren, ulusal ve uluslararası bilgi, beceri ve yetkinliklere sahip meslek elemanları yetiştirmek amacıyla, belirlenen kazanımların öğrencilerimize kazandırılması için gerekli öğretim yöntem ve tekniklerinin uygulanmasına karar verilmiştir.|
+|**Öğrenci başarısının artırılması için alınacak tedbirler.**|
+|<p>Öğrencilerin aktif olarak öğretime katılmalarının sağlanması, konunun işlenmesi sırasında öğrencilerin faydalanacakları her çeşit kaynak ve araç-gereçlerin tespiti ile bunlardan nasıl faydalanılacağı öğrencilere açıklanması, derslerde uygulamalara ağırlık verilmesi ve mümkün olduğunca öğretim süreci sonunda öğrencilerin ortaya bir ürün çıkartmalarının öğrencilerin öğrenme başarısına katkı yapacağı belirtilerek gerekli çalışmaların yapılmasına karar verildi.</p><p></p>|
+|**Zümre ve alanlar arası işbirliği.**|
+|<p>Öğrencilerin hedeflenen başarılara ulaşabilmesine yardımcı olmak amacıyla Matematik zümresi ile öğrencilerin temel matematik bilgisinin geliştirilmesi, Görsel Sanatlar Zümresi ile öğrencilerin görsel zekâ gelişimlerinin takibi, Yabancı Dil Zümresi ile bilişim teknolojileri terimlerinin daha iyi kavranması gibi konularda farklı alanlar ile iş birliği yapılmasına karar verildi.</p><p></p>|
+|**Eğitim ve öğretimde kalitenin yükseltilmesi.**|
+|Eğitim ve öğretim kalitesinin yükseltilmesi amacıyla okullarımızda eksik olan  gerekli araç gereçlerin temini konusunda okul idareleriyle gerekli çalışmaların yapılması, okul aile işbirliğinin eğitim sürecine olumlu etki ettiği gerçeği ile velilerle iletişimin artırılması, öğrencilerin kişisel gelişimlerine katkısı açısından sosyal ve kültürel etkinliklere katılmalarının teşvik edilmesi ve edindikleri bilgi ve becerilerini sergileyerek öz güven kazanmaları bakımından ulusal ve uluslararası yarışmalara katılımlarının sağlanması konusunda gerekli çalışmaların yapılmasına karar verildi.|
+|**Pandemi sürecinde eğitim öğretim ile ilgili olarak alınacak ek tedbirler**|
+|Milli Eğitim Bakanlığı tarafından yayımlanan bütün okullarda uyulması gereken kuralların yer aldığı öğrencilere ve velilere, yönetici ve öğretmenlere yönelik bilgilendirme rehberlerinde yer alan bütün tedbirlerin alınması ve Eğitim –Öğretime uzaktan eğitim ile devam edilmesi ihtimaline karşı öğretmenlerimizin gerekli hazırlıkları yapmalarına karar verildi.|
+|**İş sağlığı ve güvenliği.**|
+|İş sağlığı ve güvenliği bakımından sorumluluğumuzdaki atölye, laboratuvarda bulunan her türlü cihaz, makine bilgisayar vs. için periyodik bakım, tadilat ve değişlerinin yapılması, Atölye ve laboratuvarlardaki çalışma şartlarını belirten tehlike ve uyarı işaretleriyle makine ve araç-gerecin özelliklerine göre kullanma talimatlarının uygun yerlere asılmasına karar verildi|
+|<p>**2021-2022 hedeflerimiz** </p><p></p>|
+|<p>-Her sınıf sonunda müfredatta belirlenen kazanımların ve davranışların öğrencilerimize maksimum derecede verilmesi.</p><p>-Öğrencilerimizin güvenli ve verimli internet kullanmalarını sağlamak.</p><p>-Gelişen teknolojiyi takip eden ve öğrencilere aktaran bir öğretmen olmak.</p><p>-Bilgisayar dersinin diğer branşlar için de etkin bir şekilde kullanılmasını sağlamak.</p><p>-Öğrencilerin sosyal yönlerinin geliştirilebilmesi için düzenlenen yarışmalara katılmak ve iyi dereceler elde etmek.</p><p>-Teknolojinin hayatımızda ki yerini öğretmek ve öğrencileri hayata hazırlamak.</p><p>-Kodlama ve 3D Tasarım konularına, web içerik geliştirme araçlarına daha fazla ağırlık verilerek öğrencilerin gelecek yıllar için daha donanımlı hazırlanmasını sağlamak.</p><p></p>|
+|**Dilek ve temenniler, Kapanış.**|
+|-Toplantı yöneticisi ……………….., önümüzdeki yılbaşarılı bir eğitim öğretim yılı geçirmek temennisiyle toplantıyı sonlandırdı.|
+
+
+
+**Alınan Kararlar**
+
+1. Telafi sürecinde ve önümüzdeki dönemde eksik kalan kazanımların mümkün olduğunca tamamlanmasına,
+1. Öğretim programı çerçevesinde belirlenen kazanımlarım uygun olarak verilmesine ve sınav, performans ve proje notlarının yönetmeliğe uygun olarak planlanıp verilmesi gerektiğine
+1. Güncel ve gerekli öğretim yöntem ve tekniklerin kullanılmaya devam edilmesine
+1. Öğrenci başarısını artırma yolunda öğrencinin daha fazla sorumluluk alması ve ürün ortaya koymaya çalışılmasına,
+1. Farklı alan öğretmenleri ile işbirliği içerisinde bulunarak, dersimiz ile ilgili öğrencinin komple gelişiminin takip edilmesine
+1. Kalitenin artırılmasına yönelik okul idaresi ile irtibata geçerek eksik olan araç ve gereçlerin teminine, veli ile işbirliğine, öğrencilerin imkanlar çerçevesinde ulusal ve uluslararası yarışmalara katılmasına yardım edilmesine,
+1. Pandeminin devam etmesi ihtimaline karşılık önlemlere sıkı sıkıya bağlı kalınmasına
+1. Okullarda bulunan BT cihazlarının tehlike arz etmemesi için gerekli önlemlerin alınmasına
+1. 2021/2022 eğitim öğretim yılı için kazanımların tamamının verilmesine ve güvenli internet, kodlama, 3D Tasarım, Web 2.0 araçları gibi konular üzerine ağırlık verilmesine
+
+Karar verildi.
+
+
+
+**TOPLANTIYA KATILANLARA AİT İMZA SİRKÜSÜDÜR.**
+
+
+|**Ad-Soyad**|**Okul**|**İmza**|
+| :-: | :-: | :-: |
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+
+
+**PAGE3** / **NUMPAGES3**

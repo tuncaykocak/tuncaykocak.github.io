@@ -88,7 +88,7 @@ MIT Licensed
 			searchResultsEl.classList.remove('is-hidden');
 			searchResultsEl.innerHTML = matchingPosts.map(function (post) {
 				d = new Date(post.pubDate);
-				return '<li><a href="' + post.link + '"> post.title </a></li>';
+				return '<li><a href="' + post.link + '"> ' + post.title + ' </a></li>';
 			}).join('');
 		}
 		lastSearchResultHash = currentResultHash;

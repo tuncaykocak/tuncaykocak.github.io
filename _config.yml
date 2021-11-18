@@ -29,6 +29,7 @@ comments :
 
 # Internal nav
 nav:
+  - Anasayfa: "https://tuncaykocak.github.io/"
   - Galeri: "https://tuncaykocak.github.io/gallery/"  
   - Blog: "https://tuncaykocak.github.io/blog/"
   - Hakkında: "https://tuncaykocak.github.io/hakkinda/"

@@ -19,7 +19,7 @@
         "category" : "{{ page.category }}",
         "tags"     : "{{ page.tags | join: ', ' }}",
         "url"      : "{{ site.baseurl }}{{ page.url }}",
-        "date"     : "{{ page.date }}",
+        "date"     : "{{ page.zaman }}",
         "content"   : {{ page.content | jsonify }}
      {% endif %}
    } {% unless forloop.last %},{% endunless %}

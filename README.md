@@ -68,7 +68,7 @@ The **BASEURL** should say `/repositoryname`
 
   - GALLERY: `"https://yourusername.github.io/repositoryname/gallery/"`
   - blog: `"https://yourusername.github.io/repositoryname/blog/"`
-  - ABOUT: `"https://yourusername.github.io/repositoryname/about/`"
+  - Hakkında: `"https://yourusername.github.io/repositoryname/Hakkında/`"
 
 If there are problems with loading assets like CSS files and images, make sure that both **URL** and **BASEURL** are set correctly!!! 
 
@@ -118,7 +118,7 @@ Find the line `s.src = '//yourproject.disqus.com/embed.js';  // ` in the disqus_
 
 ----------
 
-- In order to send **newsletters** about your posts to your subscribers, you should register an account in [tinyletter](http://www.tinyletter.com " tinyletter").
+- In order to send **newsletters** Hakkında your posts to your subscribers, you should register an account in [tinyletter](http://www.tinyletter.com " tinyletter").
 
 Find the line `'https://tinyletter.com/yourproject', ` in the *newsletter.html* and replace 'yourproject' with your registered website.
 
@@ -137,7 +137,7 @@ When you add a tag or a category name in the front matter of a post, don't forge
 
 ----------
 
-All the credits and the helpers can be found at **ABOUT** page.
+All the credits and the helpers can be found at **Hakkında** page.
 
 
 ----------

@@ -5,7 +5,7 @@ subtitle:   "Lewis Carroll"
 active: blog
 image:
   feature: "pc001.jpg"
-date:       "2016-03-25"
+zaman:       "2016-03-25"
 header-img: "img/postcover/pc001.jpg"
 tags: [veli, kurs]
 categories: [egitim, kurs]
